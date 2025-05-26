@@ -1,0 +1,37 @@
+age_cat5,Sex,WorldStandardPopulation
+0-4,Male,12000
+0-4,Female,12000
+ 5-9,Male,10000
+ 5-9,Female,10000
+ 10-14,Male,9000
+ 10-14,Female,9000
+15-19,Male,9000
+15-19,Female,9000
+20-24,Male,8000
+20-24,Female,8000
+25-29,Male,8000
+25-29,Female,8000
+30-34,Male,6000
+30-34,Female,6000
+35-39,Male,6000
+35-39,Female,6000
+40-44,Male,6000
+40-44,Female,6000
+45-49,Male,6000
+45-49,Female,6000
+50-54,Male,5000
+50-54,Female,5000
+55-59,Male,4000
+55-59,Female,4000
+60-64,Male,4000
+60-64,Female,4000
+65-69,Male,3000
+65-69,Female,3000
+70-74,Male,2000
+70-74,Female,2000
+75-79,Male,1000
+75-79,Female,1000
+80-84,Male,500
+80-84,Female,500
+85,Male,500
+85,Female,500
