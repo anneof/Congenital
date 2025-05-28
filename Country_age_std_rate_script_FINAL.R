@@ -29,7 +29,8 @@ pacman::p_load(
   dplyr,
   magritter,
   tidyverse, 
-  git-all)           # data management and visualization
+  ggplot,
+ggplot2)           # data management and visualization
 
 install.packages("BiocManager")
 install.packages("usethis")
